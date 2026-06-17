@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0051-n-queens) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 ## Backtracking
 |  |
 | ------- |
@@ -18,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+## Math
+|  |
+| ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 <!---LeetCode Topics End-->
