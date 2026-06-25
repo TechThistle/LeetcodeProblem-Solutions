@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [2679-sum-in-a-matrix](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/2679-sum-in-a-matrix) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0575-distribute-candies](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0575-distribute-candies) |
 | [1189-maximum-number-of-balloons](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1189-maximum-number-of-balloons) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1732-find-the-highest-altitude) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1189-maximum-number-of-balloons) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Stack
 |  |
 | ------- |
@@ -138,4 +142,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
