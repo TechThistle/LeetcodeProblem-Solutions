@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0051-n-queens) |
+| [0257-binary-tree-paths](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0257-binary-tree-paths) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0572-subtree-of-another-tree) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0572-subtree-of-another-tree) |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0572-subtree-of-another-tree) |
@@ -112,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Hash Function
