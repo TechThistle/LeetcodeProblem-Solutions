@@ -214,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0881-boats-to-save-people](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0881-boats-to-save-people) |
 | [1089-duplicate-zeros](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1089-duplicate-zeros) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
