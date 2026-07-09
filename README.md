@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0575-distribute-candies](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0575-distribute-candies) |
 | [0881-boats-to-save-people](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0881-boats-to-save-people) |
+| [0912-sort-an-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0912-sort-an-array) |
 | [1089-duplicate-zeros](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1089-duplicate-zeros) |
 | [1389-create-target-array-in-the-given-order](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1441-build-an-array-with-stack-operations](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0881-boats-to-save-people](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0881-boats-to-save-people) |
+| [0912-sort-an-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0912-sort-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2679-sum-in-a-matrix](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/2679-sum-in-a-matrix) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0912-sort-an-array) |
 | [2679-sum-in-a-matrix](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/2679-sum-in-a-matrix) |
 ## Matrix
 |  |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -198,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Greedy
 |  |
@@ -226,4 +231,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
