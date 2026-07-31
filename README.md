@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2427-number-of-common-factors](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/2427-number-of-common-factors) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3536-maximum-product-of-two-digits](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -290,5 +291,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2427-number-of-common-factors](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
