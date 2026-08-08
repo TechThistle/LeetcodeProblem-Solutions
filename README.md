@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0164-maximum-gap) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0881-boats-to-save-people) |
