@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1732-find-the-highest-altitude](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1732-find-the-highest-altitude) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1688-count-of-matches-in-tournament) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/2427-number-of-common-factors) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
