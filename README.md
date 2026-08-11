@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0204-count-primes](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0204-count-primes](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0371-sum-of-two-integers) |
@@ -307,12 +309,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/2427-number-of-common-factors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
@@ -323,4 +327,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0042-trapping-rain-water) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
