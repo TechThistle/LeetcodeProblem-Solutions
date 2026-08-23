@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0494-target-sum](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0494-target-sum) |
 | [0575-distribute-candies](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0575-distribute-candies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0051-n-queens) |
 | [0257-binary-tree-paths](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0494-target-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0494-target-sum](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0494-target-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -371,4 +374,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1952-three-divisors) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
