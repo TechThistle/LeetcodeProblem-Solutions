@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2679-sum-in-a-matrix](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/2679-sum-in-a-matrix) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2679-sum-in-a-matrix](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/2679-sum-in-a-matrix) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -382,4 +384,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0494-target-sum) |
+## Quicksort
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
