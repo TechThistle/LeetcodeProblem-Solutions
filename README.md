@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0494-target-sum](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0494-target-sum) |
 ## Monotonic Stack
