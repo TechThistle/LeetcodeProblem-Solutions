@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0441-arranging-coins](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0507-perfect-number](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
