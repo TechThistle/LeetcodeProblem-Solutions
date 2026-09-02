@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1535-find-the-winner-of-an-array-game) |
+| [1646-get-maximum-in-generated-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1646-get-maximum-in-generated-array) |
 | [1732-find-the-highest-altitude](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1441-build-an-array-with-stack-operations](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1535-find-the-winner-of-an-array-game) |
+| [1646-get-maximum-in-generated-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1646-get-maximum-in-generated-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2679-sum-in-a-matrix](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/2679-sum-in-a-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
