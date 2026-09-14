@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0257-binary-tree-paths) |
+| [0345-reverse-vowels-of-a-string](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0881-boats-to-save-people](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0881-boats-to-save-people) |
