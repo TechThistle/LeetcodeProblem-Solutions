@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0881-boats-to-save-people](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0912-sort-an-array) |
+| [0930-binary-subarrays-with-sum](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1089-duplicate-zeros](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1389-create-target-array-in-the-given-order](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0575-distribute-candies](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0575-distribute-candies) |
+| [0930-binary-subarrays-with-sum](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2094-finding-3-digit-even-numbers](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0930-binary-subarrays-with-sum](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1732-find-the-highest-altitude](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/3903-smallest-stable-index-i) |
@@ -461,4 +464,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0523-continuous-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
