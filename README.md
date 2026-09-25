@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/3870-count-commas-in-range) |
+| [3894-traffic-signal-color](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/3894-traffic-signal-color) |
 ## Tree
 |  |
 | ------- |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3894-traffic-signal-color](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/3894-traffic-signal-color) |
 ## Hash Function
 |  |
 | ------- |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2679-sum-in-a-matrix](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/2679-sum-in-a-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3894-traffic-signal-color](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/3894-traffic-signal-color) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
