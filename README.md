@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0724-find-pivot-index](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1732-find-the-highest-altitude](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
