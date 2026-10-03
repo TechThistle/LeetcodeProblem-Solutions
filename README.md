@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0494-target-sum](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0575-distribute-candies](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0575-distribute-candies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0575-distribute-candies](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0575-distribute-candies) |
 | [0930-binary-subarrays-with-sum](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0496-next-greater-element-i](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1441-build-an-array-with-stack-operations](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 ## Divide and Conquer
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Primality Test
 |  |
