@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0204-count-primes) |
