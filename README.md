@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0821-shortest-distance-to-a-character](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0881-boats-to-save-people](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0912-sort-an-array) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0389-find-the-difference) |
 | [0572-subtree-of-another-tree](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0791-custom-sort-string](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0791-custom-sort-string) |
+| [0821-shortest-distance-to-a-character](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0633-sum-of-square-numbers](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0633-sum-of-square-numbers) |
+| [0821-shortest-distance-to-a-character](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0881-boats-to-save-people](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0881-boats-to-save-people) |
 | [1089-duplicate-zeros](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1089-duplicate-zeros) |
 | [1768-merge-strings-alternately](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1768-merge-strings-alternately) |
