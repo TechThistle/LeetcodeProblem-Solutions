@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0791-custom-sort-string](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0791-custom-sort-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0821-shortest-distance-to-a-character) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 ## Divide and Conquer
 |  |
