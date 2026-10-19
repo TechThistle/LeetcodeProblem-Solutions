@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2418-sort-the-people](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/2418-sort-the-people) |
 | [2679-sum-in-a-matrix](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/2679-sum-in-a-matrix) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2418-sort-the-people](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/2418-sort-the-people) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
 | ------- |
