@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2427-number-of-common-factors](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/2427-number-of-common-factors) |
+| [2469-convert-the-temperature](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/2469-convert-the-temperature) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/3536-maximum-product-of-two-digits) |
