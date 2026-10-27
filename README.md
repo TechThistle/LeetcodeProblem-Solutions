@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1089-duplicate-zeros](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0791-custom-sort-string) |
 | [0881-boats-to-save-people](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0821-shortest-distance-to-a-character](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0881-boats-to-save-people](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0881-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1089-duplicate-zeros) |
 | [1768-merge-strings-alternately](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1768-merge-strings-alternately) |
 ## Database
