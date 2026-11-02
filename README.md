@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1646-get-maximum-in-generated-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1646-get-maximum-in-generated-array) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1732-find-the-highest-altitude](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/TechThistle/LeetcodeProblem-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
